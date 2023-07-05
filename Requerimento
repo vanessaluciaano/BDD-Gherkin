@@ -1,0 +1,17 @@
+// Funcionalidade: Cadastro de usuário
+
+  Como usuário do sistema de locação de veículos
+  Fulano deseja completar o Login
+  Para ele ter acesso ao cadastro de usuário
+
+ // Funcionalidade: Cadastro de veículos
+
+  Como analistas do sistema de locação de veículos
+  A lista de usuários deseja completar o Login
+  Para eles terem acesso ao cadastro de veículos
+
+ // Funcionalidade: Edição de cadastro
+ 
+  Como analistas do sistema de locação de veículos
+  A lista de usuários deseja completar o Login
+  Para eles terem acesso a edição de cor e valor de cadastro de veículos
